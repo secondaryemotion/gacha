@@ -1,3 +1,6 @@
+import mechanics.Character;
+import mechanics.Paths;
+
 import java.util.Random;
 
 public class Mechanics {

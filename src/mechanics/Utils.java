@@ -1,5 +1,4 @@
-import mechanics.Character;
-import mechanics.Rarity;
+package mechanics;
 
 import java.io.IOException;
 import java.nio.file.Files;
